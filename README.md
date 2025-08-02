@@ -28,7 +28,7 @@ The dashboard analyzes and visualizes:
 ## 🛠️ Tools Used
 
 - **Power BI **
-- Data Source: CSV / Excel (insert your file type here)
+- Data Source:  Excel
 - DAX for calculated columns and KPIs
 - Data Modeling with relationships between tables
 
